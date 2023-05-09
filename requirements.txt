@@ -1,0 +1,10 @@
+openai
+langchain
+pypdf
+chromadb
+rich
+python-dotenv
+tiktoken
+PyPDF2
+python-multipart
+tabulate
